@@ -1,0 +1,4 @@
+company_name,company_website,company_industry,company_size,contact_name,contact_email,contact_phone,contact_title,city,state,country,postal_code,status,priority,source,source_url,next_follow_up_at
+Acme Inc,https://acme.com,SaaS,51-200,Jane Smith,jane@acme.com,+1-555-0100,Head of Sales,San Francisco,CA,United States,94105,new,medium,website,,2026-02-15
+Globex Corporation,https://globex.com,Manufacturing,201-500,John Doe,john@globex.com,+1-555-0200,VP Sales,New York,NY,United States,10001,contacted,high,linkedin,,2026-02-20
+Initech,https://initech.com,Software,11-50,Peter Gibbons,peter@initech.com,,CEO,Austin,TX,United States,78701,qualified,urgent,referral,,2026-02-25
